@@ -1,0 +1,31 @@
+.header__content,.nav__ul,.section1__content,.section1__social__part,.modal__tel__contnet,
+.section2__content,.section4__content,.section6__content,.section7__content,.section8__content
+{
+	display: flex;
+}
+
+.nav__ul,.nav__li a,.section1__button,.input__grup__button button a,.section2__text,.dropdown-content a{
+	font-style: normal;
+	font-weight: bold;
+}
+
+.nav__ul,.nav__li a,.section1__social__part p a,.input__grup__button button a,.dropdown-content a{
+	text-decoration: none;
+	list-style: none;
+}
+.section1__social__part p,a,.modal__tel__content__text,.modal__imput__part input::placeholder,
+.modal__imput__part option::value,.modal__chekbox a,.date input,.input__select2
+{
+	font-style: normal;
+	font-weight: normal;
+}
+
+.modal__imput__part input,.input__select,.input__select2,.date input,
+.input__grup__button button,.search__containe__btn,.section7__button button {
+	border: none;
+	outline: none;
+}
+
+.main,header,.section1,.section2,.section4,.section5,.section6,.section7,.section8{
+	width: 100%;
+}
